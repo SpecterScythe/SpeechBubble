@@ -6,3 +6,6 @@ open the app wait a second a chrome driver will load then you will see the speec
 if you dont know what a twitch oauth token us or how to get one look up "twitch tmi oauth" and what should be one of the first results is a website used to generate twich oauth tokens
 
 two things if you want to read this code, the first thing is go to this Url https://learn.microsoft.com/en-us/windows/win32/inputdev/virtual-key-codes and look at the virtual keycodes because i was sort of lazy when making this i did not rename the keys, so Key_V might be Key_B so just look and dont assume VK_CAPITAL is actually capslock, two is you might find some slashed out notes like //for some reason this form opens twice, you can ignore those i was just to lazy to remove them all the main problems i could find such as that have been fixed
+
+
+Linux version in development when released you need to have chromedriver and dotnet 7 installed to run it
