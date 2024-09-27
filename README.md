@@ -5,7 +5,7 @@ this is a speechbubble application it uses text to speech for anyone who needs a
 i made this because i dont talk so i needed a way to talk, the linux one does not have twitch support built in yet, the windows one does, what that means is that you can set up the speechbubble on windows so that everything you input into it for
 it to say will also be chatted in twitch on your channel, including auto thanking raids and subs if it works correctly, right now im doing something else so im not online much however if you download this and find a bug just dm me on twitter.
 
-though i dont have a privacy policy set up, i think thid should work
+though i dont have a privacy policy set up, i think this should work
 
 "nothing that the user enters into the application such as, (twitch oauth),(twitch username),(likewise information entered by the user), will be used for anything else other then to allow the application to work, so using the oauth to allow for
 auto chatting what you say, it is never stored off of the users computer so the information you eneter is just stored in the local appdata folder from windows, i will never take any information from any user, and the only way the oauth would be
