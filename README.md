@@ -1,6 +1,6 @@
 The other contributer is also me, go their page and the bio you will understand, anyway i know coding not github so the release.zip in the files section is the linux release, however the one in the release section is the windows release. on the bottom of this is a quick controls guide
 
-this is a speechbubble application it uses text to speech for anyone who needs a speechbubble you have a few different voice options including languages though not many yet, it aounds better then microsoft david and zira. but a step below elevenlabs
+this is a speechbubble application it uses text to speech for anyone who needs a speechbubble you have a few different voice options including languages though not many yet, it Sounds better then microsoft david and zira. but a step below elevenlabs, it does not to my knowledge use Generative ai, it just uses the extended microsoft voice pack, such as Seffon, And other ones, though i have not looked too far into how microsoft made them im confident they were made before stuff like evelenlabs or open ai were even a thing
 
 i made this because i dont talk so i needed a way to talk, the linux one does not have twitch support built in yet, the windows one does, what that means is that you can set up the speechbubble on windows so that everything you input into it for
 it to say will also be chatted in twitch on your channel, including auto thanking raids and subs if it works correctly, right now im doing something else so im not online much however if you download this and find a bug just dm me on twitter.
