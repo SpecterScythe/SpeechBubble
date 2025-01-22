@@ -1,0 +1,99 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SpeechBubble.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="OneString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Hello!</Value>
+    </Setting>
+    <Setting Name="TwoString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Not Bad, You?</Value>
+    </Setting>
+    <Setting Name="ThreeString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Shit!</Value>
+    </Setting>
+    <Setting Name="FourString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">This Is Going to take awhile</Value>
+    </Setting>
+    <Setting Name="FiveString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">On a Scale of 1 to 10 i Should not do this</Value>
+    </Setting>
+    <Setting Name="SixString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Testing</Value>
+    </Setting>
+    <Setting Name="SevenString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Blank</Value>
+    </Setting>
+    <Setting Name="EightString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Blank</Value>
+    </Setting>
+    <Setting Name="NineString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Blank</Value>
+    </Setting>
+    <Setting Name="ZeroString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Blank</Value>
+    </Setting>
+    <Setting Name="SpBubbleTop" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="HlpScreenTop" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="FontSize" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">48</Value>
+    </Setting>
+    <Setting Name="UserFont" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="SpeakAll" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="QuickText" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="VerifiedUsers" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="AddUser" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="RecentChatter" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Darkmode" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="BubblePointLeft" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="Setting" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="BubbleLocation" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">0, 0</Value>
+    </Setting>
+    <Setting Name="BubbleColorInt" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="OAuth" Type="System.String" Scope="User">
+      <Value Profile="(Default)">oauth:</Value>
+    </Setting>
+    <Setting Name="FirstStart" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="TwitchName" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="VoiceType" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SteffanNeural(Male)</Value>
+    </Setting>
+    <Setting Name="VoiceLocal" Type="System.String" Scope="User">
+      <Value Profile="(Default)">English (United States) [en-US]</Value>
+    </Setting>
+    <Setting Name="ChatAllText" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="CanDragHelpmenu" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
